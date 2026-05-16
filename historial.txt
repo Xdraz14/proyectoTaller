@@ -1,3 +1,7 @@
+* 24e2d1c feat: agregar/areaCuadrado
+* a0f3fc7 Fix typo in programming language section
+* 510ffbf docs: agregar README del proyecto
+* a85b080 docs: agregar historial del repositorio
 * 5952f87 feat: agregar areaTriangulo
 * 7ac96c9 feat: agregar areaCirculo
 * c4fca22 Docs: agregar fecha al archivo de presentacion
