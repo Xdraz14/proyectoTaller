@@ -1,0 +1,4 @@
+Nombre: Jimmi Antonio Calvo Hoyos
+Programa:441A-INGENIERÍA DE SOFTWARE
+Lenguaje elegido: Python
+Descripcion del proyecto: Funciones para calcular area de figuras geometricas
