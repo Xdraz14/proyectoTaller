@@ -1,0 +1,4 @@
+* 5952f87 feat: agregar areaTriangulo
+* 7ac96c9 feat: agregar areaCirculo
+* c4fca22 Docs: agregar fecha al archivo de presentacion
+* a814a27 feat: agregar presentacion del estudiante
