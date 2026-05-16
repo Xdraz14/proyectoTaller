@@ -1,0 +1,6 @@
+# [proyectoTaller]
+## Descripción	 [Codigo del calculo de las areas de un circulo y un triangulo]
+## Lenguaje	 [Pyhon]
+## Funciones	 - [areaCirculo]: [calcula area del circulo]	 - [areaTriangulo]: [calcula area del triangulo]
+## Como ejecutar	 [areaCirculo.py y areaTriangulo.py]
+## Autor	 [Jimmi Antonio Calvo Hoyos] — [441A-INGENIERÍA DE SOFTWARE]
